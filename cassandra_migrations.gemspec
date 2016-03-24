@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 
   # s.add_dependency: Production dependencies
   s.add_dependency 'cassandra-driver', '>= 2.1'
-  s.add_dependency 'rake', '~> 10'
+  s.add_dependency 'rake', '>= 10'
   s.add_dependency 'rails', '>= 3.2'
   s.add_dependency 'colorize', '~> 0.7.3'
 
